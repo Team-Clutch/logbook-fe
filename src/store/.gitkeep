@@ -1,0 +1,3 @@
+src/store/ (또는 src/context/) (전역 상태 관리) 애플리케이션 전체에서 공유해야 하는 글로벌 상태를 관리
+- React-query, Zustand, Redux 등의 전역 스토어 파일(auth.store.ts, theme.store.ts 등)
+- 또는 React Context API의 Provider와 Context 파일들

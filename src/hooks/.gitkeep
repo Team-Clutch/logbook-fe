@@ -1,0 +1,2 @@
+src/hooks/ (전역 커스텀 훅) 특정 기능에 종속되지 않고 앱 전반에서 재사용되는 리액트 훅을 보관
+- 예: 화면 크기를 감지하는 useMediaQuery, 로컬 스토리지를 관리하는 useLocalStorage, 입력 지연을 처리하는 useDebounce 등
